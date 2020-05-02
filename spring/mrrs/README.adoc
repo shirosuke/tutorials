@@ -1,0 +1,22 @@
+= 会議室予約Webアプリケーション
+
+== 概要
+
+* 会議室を予約する為のWebアプリケーション
+* link:https://www.amazon.co.jp/dp/B01IEWNLBU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1[Spring徹底入門 Spring FrameworkによるJavaアプリケーション開発]
+のチュートリアル
+
+== アレンジ
+
+* Spring Bootの知識1.xなので2.x系に
+* JavaのバージョンはJava11（現時点でのLTS）
+* 書籍の内容に加え、下記の内容についても試す。
+** テスト
+*** JUnit5で。
+** ドキュメント
+*** APIDoc(Spring Rest Docs)
+*** モデル図（PlantUML）
+*** ER図（いる?）
+** デプロイ
+*** cloudfoundry or Docker
+
